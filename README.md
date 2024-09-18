@@ -9,3 +9,10 @@ Upgraded version of https://github.com/YrSk-tech/STM32_USARTbasis project with a
 ## STM32CubeMonitor Chart dashboard
 ![image](https://github.com/user-attachments/assets/0a93c57a-1d4f-4d16-9d0a-119aa2df0afb)
 
+Microcontroller STM32F4VE
+
+Convertor USB - UART TTL CP2104
+
+Course name: Mastering STM32 microcontrollers
+
+Link: https://www.udemy.com/course/mastering-stm32f407-microcontrollers/
