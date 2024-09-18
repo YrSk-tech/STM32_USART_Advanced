@@ -7,4 +7,5 @@ Upgraded version of https://github.com/YrSk-tech/STM32_USARTbasis project with a
 ![image](https://github.com/user-attachments/assets/24e0cf24-6bb5-44f0-8279-7430cef39795)
 
 ## STM32CubeMonitor Chart dashboard
-![image](https://github.com/user-attachments/assets/5b4443af-f4ff-4f14-8030-ce6a8c031082)
+![image](https://github.com/user-attachments/assets/0a93c57a-1d4f-4d16-9d0a-119aa2df0afb)
+
